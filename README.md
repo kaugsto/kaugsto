@@ -1,6 +1,6 @@
 ## Olá, como vai ? 
 
-### Bem-vindo(a) ao meu Github. Prazer, meu nome é Kleber ✋
+### Bem-vindo(a) ao meu Github. Prazer, meu nome é Kleber 😀
 
 
 
